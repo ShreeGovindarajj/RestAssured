@@ -1,11 +1,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="apiautomation">
+<suite name="RestAssured">
     <test name="POSTTest">
-
             <classes>
                 <class name="Runneres.TestRunner"/>
             </classes>
-
-
     </test>
 </suite>
